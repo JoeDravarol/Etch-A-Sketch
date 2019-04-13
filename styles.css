@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #2ECC40;
+    color: #111;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    text-align: center;
+}
+
+.container {
+    margin: 1em auto;
+    background-color: #111;
+    width: 650px;
+    height: 650px;
+    border: 10px solid #176944;
+    display: grid;
+    grid-gap: 2px;
+}
