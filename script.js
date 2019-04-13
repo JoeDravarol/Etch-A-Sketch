@@ -27,8 +27,7 @@ container.addEventListener('mouseover', paint);
 function paint(e) {
     const target = e.target;
 
-    console.log(darkness);
-    let newColor = `rgba(${randomColor()}, ${randomColor()}, ${randomColor()}, ${darkness})`;
+    let newColor = `rgba(${randomColor()}, ${randomColor()}, ${randomColor()})`;
     let className = 'colored';
 
     if (!target.className) {

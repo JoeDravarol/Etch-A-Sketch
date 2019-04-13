@@ -8,6 +8,6 @@ It will be use to demonstrate:
   * Creating and styling element in JavaScript
 * Event handling
 
-To view the project, click [here]()
+To view the project, click [here](https://joedravarol.github.io/Etch-A-Sketch/)
 
 Created as part of The Odin Project's [curriculum](https://www.theodinproject.com/courses/web-development-101/lessons/etch-a-sketch-project)
